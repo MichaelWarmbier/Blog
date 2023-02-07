@@ -30,7 +30,7 @@ This was a relatively simple structure that would be the basis for my next four 
 
 <p align="center"><img src="https://camo.githubusercontent.com/a837346fc5b8920a6bf6c7270b0775527b0d239c89faed7d503f1b3befb431d8/68747470733a2f2f692e6779617a6f2e636f6d2f35623537343461616132393661653538363966323831623734313461643461382e676966"></p>
 
-##### <p align="center">A recently designed game of pong I made in about ten minutes.</p>
+##### <p align="center">A recently designed game of _Pong_ I made in about ten minutes.</p>
 <br>
 
 <hr>
