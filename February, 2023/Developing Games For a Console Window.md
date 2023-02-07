@@ -109,6 +109,8 @@ Overall this project turned out nicely, though not without its flaws. Its compac
 ##### <p align="center">An example of the camera switching mechanic in the game.</p>
 <br>
 
+<hr>
+
 ### <p align="center">Final Thoughts</p>
 <br>
 
