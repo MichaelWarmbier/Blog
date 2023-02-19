@@ -69,7 +69,7 @@ Utilizing these two methods, I made some examples of interesting images that I t
 <br>
   
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1065328426032058470/1076633413764788375/image.png"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1065328426032058470/1076795711020072960/image.png"></p>
 
 #### <p align="center">An image of _New York City_. From left to right: original, G color space, G as grayscale.</p>
 ##### <p align="center">Photograph by guvendemir, iStockphoto; Taken from National Geographic website.</p>
